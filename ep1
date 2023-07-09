@@ -1,0 +1,5 @@
+first trick is changing basic command to something :
+
+vim .zshrc : unalias 'command'
+             alias 'command="'what it going to do'"
+source .zshrc
